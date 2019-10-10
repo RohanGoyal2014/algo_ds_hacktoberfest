@@ -1,1 +1,1 @@
-Repo for Hacktoberfest
+Repository for Hacktoberfest
